@@ -7,3 +7,12 @@ C:\Users\Christiaan\Documents\GitHub\WebAdvert.SearchWorker\obj\Debug\netcoreapp
 C:\Users\Christiaan\Documents\GitHub\WebAdvert.SearchWorker\bin\Debug\netcoreapp2.1\WebAdvert.SearchWorker.pdb
 C:\Users\Christiaan\Documents\GitHub\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.dll
 C:\Users\Christiaan\Documents\GitHub\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.pdb
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\bin\Debug\netcoreapp2.1\WebAdvert.SearchWorker.deps.json
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\bin\Debug\netcoreapp2.1\WebAdvert.SearchWorker.dll
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\bin\Debug\netcoreapp2.1\WebAdvert.SearchWorker.pdb
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.csprojAssemblyReference.cache
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.csproj.CoreCompileInputs.cache
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.AssemblyInfoInputs.cache
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.AssemblyInfo.cs
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.dll
+C:\Users\Christiaan\Documents\GitHub\WebAdvert.Lambda\WebAdvert.SearchWorker\obj\Debug\netcoreapp2.1\WebAdvert.SearchWorker.pdb

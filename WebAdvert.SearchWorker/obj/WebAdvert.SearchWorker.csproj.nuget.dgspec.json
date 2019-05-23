@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj": {}
+    "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.Lambda\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj": {
+    "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.Lambda\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj",
+        "projectUniqueName": "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.Lambda\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj",
         "projectName": "WebAdvert.SearchWorker",
-        "projectPath": "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj",
+        "projectPath": "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.Lambda\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker.csproj",
         "packagesPath": "C:\\Users\\Christiaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.SearchWorker\\WebAdvert.SearchWorker\\obj\\",
+        "outputPath": "C:\\Users\\Christiaan\\Documents\\GitHub\\WebAdvert.Lambda\\WebAdvert.SearchWorker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "AdvertApi.Models.ChrisP.ZA": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Amazon.Lambda.Core": {
               "target": "Package",
               "version": "[1.1.0, )"
@@ -53,11 +57,27 @@
               "target": "Package",
               "version": "[1.5.0, )"
             },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[6.7.0, )"
             }
           },
           "imports": [
